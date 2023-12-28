@@ -1,0 +1,5 @@
+mode: set
+sonarqube/math.go:5.13,9.2 3 0
+sonarqube/math.go:11.24,13.2 1 1
+sonarqube/math.go:15.32,17.2 1 1
+sonarqube/math.go:19.35,21.2 1 1
